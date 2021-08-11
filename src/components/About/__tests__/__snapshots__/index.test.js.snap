@@ -16,6 +16,9 @@ exports[`About component Matches snapshot DOM node structure 1`] = `
       src="cover-image.jpg"
       style="width: 100%;"
     />
+    <p>
+      "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+    </p>
   </section>
 </DocumentFragment>
 `;
